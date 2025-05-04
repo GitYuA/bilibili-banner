@@ -11,7 +11,7 @@
 - 原生 JavaScript 实现，无第三方依赖
 - 自动抓取资源，生成配置，可快速复刻 B 站动态 Banner 及交互效果，接近 1:1 还原
 
-[查看在线演示](https://palxiao.github.io/bilibili-banner/)
+[查看在线演示](https://gityua.github.io/bilibili-banner/)
 
 ![](./preview0.png)
 
